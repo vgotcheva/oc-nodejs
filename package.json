@@ -1,0 +1,12 @@
+{
+  "name": "lotion-counter",
+  "version": "0.1.0",
+  "description": "lotionjs counter app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "lotion": "0.1.18"
+  }
+}
